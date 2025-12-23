@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Haitham Magdy Adel
 
-**Flutter Developer**
+**Senior Mobile App Developer | Flutter Specialist**
 
-I'm a passionate Flutter developer with **3+ years** of experience building production-ready mobile applications that serve **millions of users**. Based in Cairo, Egypt, I specialize in creating secure, scalable, and high-performance cross-platform solutions for fintech, education, and on-demand services.
+I'm a passionate Senior Mobile App Developer with **4+ years** of Flutter experience building production-ready mobile applications that serve **millions of users**. Based in Cairo, Egypt, I specialize in creating secure, scalable, and high-performance cross-platform solutions for fintech, education, and e-commerce.
 
-Currently architecting nationwide educational apps at **El-Moasser** (serving 1M+ students in 2025/2026), while staying open to exciting opportunities in mobile development.
+Currently architecting nationwide educational apps at **El-Moasser** (serving 1M+ students in 2025/2026), while leading development teams and staying open to exciting opportunities in mobile development.
 
 ---
 
@@ -13,29 +13,43 @@ Currently architecting nationwide educational apps at **El-Moasser** (serving 1M
 - 🏗️ **Architecture Expert**: Deep expertise in Clean Architecture, MVVM, and Repository Pattern
 - 🔐 **Security-First Mindset**: Built FinTech apps with root/jailbreak detection, biometric auth, and fraud prevention
 - ⚡ **Performance Optimizer**: Reduced CI/CD build times by 15% through automation
-- 📱 **Production Impact**: Delivered 10+ apps used by thousands of active users daily
+- 📱 **Production Impact**: Delivered 10+ apps used by millions of active users daily
+- 👥 **Technical Leadership**: Currently leading development teams and mentoring junior developers
 - 🎓 **DevOps Certified**: Professional training in Docker, Kubernetes, GitOps, and cloud practices
 
 ---
 
 ## 💼 Professional Experience
 
-### 🎓 Flutter Developer at **El-Moasser Educational Platform**
+### 🎓 Senior Flutter Developer at **El-Moasser Educational Platform**
 *May 2024 - Present | Cairo, Egypt*
 
-Building a comprehensive educational ecosystem with **5 interconnected apps** designed to serve over **1 million students** across Egypt:
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/المعاصر-والامتحان/id6743208056)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=eg.com.gps.app)
 
-- 📚 **Student & Parents App**: Real-time progress tracking, grade analytics, and parent-student communication
-- 👨‍🏫 **Teacher Management System**: Multi-role access (Teacher, Corrector, Assistant) with course management and exam creation
-- 📖 **Educational Dictionary**: Media-rich vocabulary search with context-aware content across all grades
-- 🎮 **OIC Game**: Voice-led gamified learning with 15+ interactive levels and adaptive difficulty
-- 🗺️ **Guide Answer App**: Step-by-step problem-solving assistance with contextual learning support
+Architecting and developing **El-Moasser Educational Platform**, Egypt's comprehensive digital learning app serving **1M+ students** for nationwide 2025/2026 academic rollout.
+
+**🏆 Major Achievement**: Led development of **OIC Game** that **won first place** at the Cairo International Book Fair competition and was presented in a United States competition focused on autism treatment in children.
 
 **Technical Highlights**:
 - Architected scalable multi-role access systems using **Riverpod** and **Bloc**
 - Implemented HLS/M3U8 video streaming with custom players
 - Automated CI/CD pipelines with **GitHub Actions**, reducing deployment time by 15%
 - Integrated RESTful APIs with comprehensive error handling and offline support
+- Built custom Unity integration for gamified learning experiences
+
+### 💍 Senior Flutter Developer (Part-time) at **OurBride**
+*Oct 2025 - Present | Remote*
+
+Leading a team of 3 junior developers in building a wedding e-commerce platform serving **1,000+ clients**.
+
+**Technical Leadership**:
+- Architected scalable codebase using Clean Architecture and Bloc pattern
+- Established code quality standards and best practices
+- Mentor junior developers through code reviews and pair programming
+- Implemented vendor management, product catalogs, and real-time order tracking
+
+**Tech Stack**: Bloc, Clean Architecture, Firebase, RESTful APIs, Payment Integration (Paymob)
 
 ### 🎪 Flutter Developer at **MyInvite** (KSA)
 *Jun 2023 - May 2024 | Remote*
@@ -50,7 +64,7 @@ Developed a cross-platform event management platform serving **600+ gatekeepers*
 **Tech Stack**: Flutter, Bloc, RESTful APIs, QR Integration, Push Notifications, Geolocation
 
 ### 💼 Flutter Developer - **Independent Contractor**
-*Jan 2022 - May 2024*
+*Jan 2021 - May 2022*
 
 Delivered 3+ custom mobile solutions across diverse industries:
 
@@ -86,7 +100,7 @@ Docker • Kubernetes • Ansible • Terraform • ArgoCD • GitOps • GitHub
 
 ### **Advanced Features**
 - 🎥 **Video Streaming**: HLS/M3U8 integration, custom video players
-- 💳 **Payment Integration**: Stripe, PayPal, Paymob
+- 💳 **Payment Integration**: Stripe, PayPal, Paymob, Moyasar
 - 🔐 **Security**: Biometric auth, root/jailbreak detection, secure storage
 - 📊 **Data Visualization**: Interactive charts and graphs
 - 🧪 **Testing**: Unit, Widget, and Integration Testing (Mockito, flutter_test)
@@ -120,19 +134,24 @@ Secure mobile wallet application with enterprise-grade security features.
 
 ---
 
-### 📚 **El-Moasser Educational Suite** (5 Applications)
-*Feature-complete • Nationwide rollout planned for 2025/2026 academic year*
+### 📚 **El-Moasser Educational Platform**
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/المعاصر-والامتحان/id6743208056)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=eg.com.gps.app)
 
-A comprehensive digital learning ecosystem designed to transform education across Egypt, expected to serve **1M+ students**.
+*Production • Serving 1M+ students nationwide • 2025/2026 academic rollout*
 
-**Applications**:
-1. **Student & Parents Tracker**: Real-time progress monitoring, grade analytics, parent communication
-2. **Teacher Management**: Multi-role system for teachers, correctors, and assistants
-3. **Educational Dictionary**: Media-rich vocabulary with contextual learning
-4. **Guide Answer App**: Step-by-step problem-solving assistance
-5. **OIC Game**: Voice-led gamified learning with 15+ levels
+Egypt's comprehensive digital learning platform designed to transform K-12 education.
 
-**🛠️ Tech Stack**: Riverpod, Bloc, Firebase, RESTful APIs, Video Streaming (HLS/M3U8), Custom Charts
+**🏆 Award-Winning**: OIC Game (integrated within the platform) won **first place** at Cairo International Book Fair and was presented in a US competition focused on autism treatment in children.
+
+**✨ Key Features**:
+- Multi-role access control supporting students, parents, and teachers
+- HLS video streaming with custom players for educational content
+- Unity game integration (OIC Game) with adaptive difficulty
+- Real-time progress tracking and analytics
+- Offline-first architecture for low-connectivity areas
+
+**🛠️ Tech Stack**: Riverpod, Bloc, Firebase, RESTful APIs, Video Streaming (HLS/M3U8), Unity SDK, Custom Charts
 
 **📊 Impact**: Transforming education for millions of students across Egypt
 
@@ -158,6 +177,24 @@ Cross-platform event management platform with sophisticated dual-role functional
 - **Client**: Event discovery, booking management, real-time notifications
 
 **🛠️ Tech Stack**: Flutter, Bloc, RESTful APIs, QR Code Integration, Push Notifications, Geolocation
+
+---
+
+### 💍 **OurBride App**
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ourbride)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/ourbride)
+
+*Production • 1,000+ clients*
+
+Wedding e-commerce platform connecting brides with products, services, and vendors.
+
+**✨ Key Features**:
+- Vendor management system with product catalogs
+- Real-time order tracking and management
+- Secure payment integration (Paymob)
+- Clean Architecture implementation with scalable codebase
+
+**🛠️ Tech Stack**: Flutter, Bloc, Clean Architecture, Firebase, RESTful APIs, Payment Integration
 
 ---
 
@@ -251,7 +288,8 @@ I'm always excited to collaborate on innovative mobile projects and connect with
 
 ## 🔭 What I'm Currently Working On
 
-- 🎓 Scaling El-Moasser Educational Suite to serve 1M+ students
+- 🎓 Scaling El-Moasser Educational Platform serving 1M+ students nationwide
+- 💍 Leading development team at OurBride wedding e-commerce platform
 - 🚀 Exploring advanced Flutter architecture patterns
 - 🔐 Deepening expertise in mobile security and fraud prevention
 - 🤝 Contributing to open-source Flutter projects
@@ -267,6 +305,7 @@ I'm always excited to collaborate on innovative mobile projects and connect with
 - 🔄 State Management patterns (Riverpod, Bloc, GetX)
 - 🔐 Mobile security and fraud prevention
 - 🚀 CI/CD automation and DevOps practices
+- 👥 Technical leadership and team mentoring
 - 🎓 Educational technology solutions
 - 🎥 Video streaming integration (HLS/M3U8)
 - ⚡ Real-time features with Firebase and WebSockets
